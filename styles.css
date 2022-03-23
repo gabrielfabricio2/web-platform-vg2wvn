@@ -1,0 +1,10 @@
+h3 {
+  opacity: 0.5;
+}
+th {
+  border-bottom-style: ridge;
+}
+button {
+  border: 2px solid;
+  border-radius: 15px;
+}
